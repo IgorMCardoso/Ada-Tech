@@ -7,6 +7,7 @@ const soma = numero1 + numero2;
 const subtracao = numero1 - numero2;
 const multiplicacao = numero1 * numero2;
 const divisao = numero1 / numero2;
+
 const elevado1 = numero3 ** numero4; //para fazer potencia, é necessário ter 2 asteriscos " ** " ou Math.pow(numero3, numero4)
 const elevado2 = Math.pow(numero3, numero4); //biblioteca Math, função pow, que faz potenciação
 const divisao2 = 3 / 2;
